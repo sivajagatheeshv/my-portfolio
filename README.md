@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -47,4 +46,3 @@ This portfolio showcases my skills, academic projects, and contact information.
 
 ---
 Created by **Sivajagatheesh V**.
->>>>>>> 9a221f93aefed9f3b653c2b148900470d87bc9f1
