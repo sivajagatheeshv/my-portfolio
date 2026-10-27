@@ -169,7 +169,7 @@ function Contact() {
           <a href="https://github.com/sivajagatheeshv" target="_blank" rel="noreferrer">
             GitHub ↗
           </a>
-          <a href="www.linkedin.com/in/sivajagatheesh-v-936697420" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/sivajagatheesh-v?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer">
             LinkedIn ↗
           </a>
         </div>
